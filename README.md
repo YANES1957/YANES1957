@@ -1,4 +1,4 @@
-<h1 align="center"> 🔴 Bem vindo!  Eu sou o Roberto César. </h1>
+<h1 align="center"> 🔴 Bem vindo!  **Eu sou o Roberto César. </h1>
 
 <p align="center">
   Sou um desenvolvedor back-end iniciante, focado em Java, Spring Boot e boas práticas.  
@@ -7,27 +7,27 @@
 
 ---
 
-## ⚡ Sobre mim  
+## ⚡ **Sobre mim*  
 - Desenvolvedor iniciante em **Java**, focado em boas práticas de **backend**, **Spring Boot** e **APIs REST**.  
 - Estudo diariamente **Java, Spring Boot, JUnit 5, Mockito, API REST, boas práticas de arquitetura e QA Automation**.  
 - Tenho um filho de quatro patas, meu companheiro de vida: **Lito**, minha maior alegria.🐶💙
 
 ---
 
-## 🌱 Atualmente estudando  
-- Java  
-- Spring Boot  
-- API REST  
-- JUnit 5  
-- Mockito  
-- **QA Automation**  
-- Arquitetura e boas práticas  
-- Produtividade e organização de código  
-- Bootcamps e cursos pela **Udemy, DIO/Bradesco, DIO/Riachuelo** e outras plataformas gratuitas  
+## 🌱 **Atualmente estudando*  
+- **Java**.  
+- Spring Boot.  
+- API REST.  
+- JUnit 5.  
+- Mockito;  
+- **QA Automation**.  
+- Arquitetura e boas práticas.  
+- Produtividade e organização de código.  
+- Bootcamps e cursos pela **Udemy, DIO/Bradesco, DIO/Riachuelo** e outras plataformas gratuitas.  
 
 ---
 
-## ⛱️ Um caiçara
+## ⛱️ **Um caiçara*
 Moro e sou apaixonado pelo litoral, sol, praia, natureza, energia e a simplicidade do mar.  
 Meus hobbies incluem:  
 - 🏋️ Academia
@@ -40,7 +40,7 @@ Meus hobbies incluem:
 
 ---
 
-## 🧐 Curiosidade sobre minha trajetória  
+## 🧐 **Curiosidade sobre minha trajetória*  
 Eu decidi entrar na programação, após um momento de profunda mudança e reconstrução na minha vida.  
 Desenvolver em Java se tornou minha forma de reencontrar **clareza, propósito, e força**. 
 Estudar me trouxe **equilíbrio, disciplina e a sensação real de evolução** — tanto como profissional quanto como ser humano.  
@@ -49,7 +49,7 @@ Hoje sigo firme construindo um futuro de evolução, próspero e cheio de possib
 ---
 
 
-### 🚀 Tecnologias que uso e estudo
+### 🚀 **Tecnologias que uso e estudo*
 
 <div align="center">
 
@@ -64,7 +64,7 @@ Hoje sigo firme construindo um futuro de evolução, próspero e cheio de possib
 
 </div>
 
-## 🌐 Onde você pode me encontrar 
+## 🌐 **Onde você pode me encontrar* 
 
 <div align="center">
 
@@ -86,7 +86,7 @@ Hoje sigo firme construindo um futuro de evolução, próspero e cheio de possib
 
 ---
 
-## 🙏 Obrigado por visitar meu perfil!  
+## 🙏 **Obrigado por visitar meu perfil*!  
 Sinta-se à vontade para explorar meu trabalho e acompanhar minha evolução.
 
 
