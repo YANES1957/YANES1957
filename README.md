@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá! Eu sou o Roberto César Yanes 😊</h1>
+<h1 align="center">👋 Olá! Eu sou o Roberto César Yanes </h1>
 
 <p align="center">
   Sou um desenvolvedor back-end iniciante, focado em Java, Spring Boot e boas práticas.  
@@ -54,12 +54,13 @@ Hoje sigo firme construindo um futuro mais leve, próspero e cheio de possibilid
 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>  
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>  
-<img src="https://img.shields.io/badge/REST-000000?style=for-the-badge&logo=swagger&logoColor=white"/>  
+![REST API](https://img.shields.io/badge/REST_API-0A7EC2?style=for-the-badge&logo=api&logoColor=white)
 <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=java&logoColor=white"/>  
 <img src="https://img.shields.io/badge/Mockito-6DB33F?style=for-the-badge&logo=java&logoColor=white"/>  
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>  
-<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>  
-<img src="https://img.shields.io/badge/QA%20Automation-0A0A0A?style=for-the-badge&logo=testcafe&logoColor=white"/>  
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-F300B0?style=for-the-badge&logo=intellijidea&logoColor=white) 
+![QAutomation](https://img.shields.io/badge/QA_Automation-F1C40F?style=for-the-badge&logo=test&logoColor=black)
+  
 
 </div>
 
@@ -72,15 +73,12 @@ Hoje sigo firme construindo um futuro mais leve, próspero e cheio de possibilid
 <a href="mailto:robertocesaryanes@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
 <a href="https://github.com/YANES1957" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
 <a href="https://www.linkedin.com/in/robertocesaryanes/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 <a href="https://instagram.com/Roberto_Cesar_Yanes" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
