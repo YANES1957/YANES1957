@@ -1,8 +1,8 @@
-<h1 align="center">👋 Olá! Eu sou o Roberto Cesar 😊</h1>
+<h1 align="center">👋 Olá! Eu sou o Roberto César Yanes 😊</h1>
 
 <p align="center">
   Sou um desenvolvedor back-end iniciante, focado em Java, Spring Boot e boas práticas.  
-  Construindo um futuro mais sólido, feliz e cheio de possibilidades através da tecnologia.
+  Determinado a construir um futuro mais sólido, feliz e cheio de possibilidades através da tecnologia.
 </p>
 
 ---
@@ -28,19 +28,21 @@
 ---
 
 ## ⛱️ Um caiçara
-Apaixonado pelo litoral, sol, praia, natureza, energia e a simplicidade do mar.  
+Moro e sou apaixonado pelo litoral, sol, praia, natureza, energia e a simplicidade do mar.  
 Meus hobbies incluem:  
-- 🏋️ Academia  
+- 🏋️ Academia
+- 📚 Gosto muito de escrever e ler determinados gêneros literários
+- ♣️ Jogar baralho e dominó com meus pais que já são idosos.
 - 🌊 Caminhada na praia e nadar no mar 
 - 🏍️ Trilha com a minha moto pelo litoral 
 - 🎮 Jogos vintage 32-bits (KOF, Street Fighter, SNES, Mega Drive), Fall Guys e futebol online, God Of War  
-- 🐶 Cuidar e brincar com meu pet o Lito  
+- 🐶 Cuidar, brincar e caminhadas diárias com meu pet o Lito  
 
 ---
 
 ## 🧐 Curiosidade sobre minha trajetória  
-Eu decidi entrar na programação no momento de reconstruçãona minha vida.  
-Desenvolver em Java se tornou minha forma de reencontrar clareza, propósito e força.  
+Eu decidi entrar na programação, após um momento de profunda mudança e reconstrução na minha vida.  
+Desenvolver em Java se tornou minha forma de reencontrar clareza, propósito, e força. 
 Estudar me trouxe equilíbrio, disciplina e a sensação real de evolução — tanto como profissional quanto como ser humano.  
 Hoje sigo firme construindo um futuro mais leve, próspero e cheio de possibilidades através do conhecimento e da tecnologia.
 
