@@ -31,20 +31,20 @@
 Moro e sou apaixonado pelo litoral, sol, praia, natureza, energia e a simplicidade do mar.  
 Meus hobbies incluem:  
 - 🏋️ Academia
-- 📚 Gosto muito de escrever e ler determinados gêneros literários
+- 📚 Gosto muito de escrever e ler determinados gêneros literários.
 - ♣️ Jogar baralho e dominó com meus pais que já são idosos.
-- 🌊 Caminhada na praia e nadar no mar 
-- 🏍️ Trilha com a minha moto pelo litoral 
-- 🎮 Jogos vintage 32-bits (KOF, Street Fighter, SNES, Mega Drive), Fall Guys e futebol online, God Of War  
-- 🐶 Cuidar, brincar e caminhadas diárias com meu pet o Lito  
+- 🌊 Caminhada na praia e nadar no mar. 
+- 🏍️ Trilha com a minha moto pelo litoral. 
+- 🎮 Jogos vintage 32-bits (KOF, Street Fighter, SNES, Mega Drive), Fall Guys e futebol online, God Of War.  
+- 🐶 Cuidar, brincar e caminhadas diárias com meu pet o **Lito**
 
 ---
 
 ## 🧐 Curiosidade sobre minha trajetória  
 Eu decidi entrar na programação, após um momento de profunda mudança e reconstrução na minha vida.  
-Desenvolver em Java se tornou minha forma de reencontrar clareza, propósito, e força. 
-Estudar me trouxe equilíbrio, disciplina e a sensação real de evolução — tanto como profissional quanto como ser humano.  
-Hoje sigo firme construindo um futuro mais leve, próspero e cheio de possibilidades através do conhecimento e da tecnologia.
+Desenvolver em Java se tornou minha forma de reencontrar **clareza, propósito, e força**. 
+Estudar me trouxe **equilíbrio, disciplina e a sensação real de evolução** — tanto como profissional quanto como ser humano.  
+Hoje sigo firme construindo um futuro de evolução, próspero e cheio de possibilidades através do conhecimento e da tecnologia.
 
 ---
 
