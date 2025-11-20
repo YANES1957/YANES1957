@@ -48,23 +48,32 @@ Hoje sigo firme construindo um futuro mais leve, próspero e cheio de possibilid
 
 ---
 
-## 🛠️ Tecnologias que uso e estudo
 
-<div align="center">
+### 🚀 Tecnologias que uso e estudo
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>  
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>  
+<!-- Java -->
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+
+<!-- Spring Boot -->
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+
+<!-- MySQL -->
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+<!-- Git -->
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+<!-- GitHub -->
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+<!-- IntelliJ IDEA (cor JetBrains oficial) -->
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-F300B0?style=for-the-badge&logo=intellijidea&logoColor=white)
+
+<!-- REST API (azul) -->
 ![REST API](https://img.shields.io/badge/REST_API-0A7EC2?style=for-the-badge&logo=api&logoColor=white)
-<img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=java&logoColor=white"/>  
-<img src="https://img.shields.io/badge/Mockito-6DB33F?style=for-the-badge&logo=java&logoColor=white"/>  
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>  
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-F300B0?style=for-the-badge&logo=intellijidea&logoColor=white) 
-![QAutomation](https://img.shields.io/badge/QA_Automation-F1C40F?style=for-the-badge&logo=test&logoColor=black)
-  
 
-</div>
-
----
+<!-- QA Automation (amarelo) -->
+![QA Automation](https://img.shields.io/badge/QA_Automation-F1C40F?style=for-the-badge&logo=test&logoColor=black)
 
 ## 🌐 Onde você pode me encontrar  
 
