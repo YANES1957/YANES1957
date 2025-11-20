@@ -53,38 +53,37 @@ Hoje sigo firme construindo um futuro mais leve, próspero e cheio de possibilid
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/IntelliJ_IDEA-F300B0?style=for-the-badge&logo=intellijidea&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST_API-0A7EC2?style=for-the-badge&logo=api&logoColor=white"/>
-<img src="https://img.shields.io/badge/QA_Automation-F1C40F?style=for-the-badge&logo=test&logoColor=black"/>
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white&rounded=true"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white&rounded=true"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&rounded=true"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&rounded=true"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&rounded=true"/>
+<img src="https://img.shields.io/badge/IntelliJ_IDEA-F300B0?style=for-the-badge&logo=intellijidea&logoColor=white&rounded=true"/>
+<img src="https://img.shields.io/badge/REST_API-0A7EC2?style=for-the-badge&logo=api&logoColor=white&rounded=true"/>
+<img src="https://img.shields.io/badge/QA_Automation-F1C40F?style=for-the-badge&logo=test&logoColor=black&rounded=true"/>
 
 </div>
+
 
 ## 🌐 Onde você pode me encontrar 
 
 <div align="center">
 
 <a href="mailto:robertocesaryanes@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&rounded=true"/>
 </a>
-
 <a href="https://github.com/YANES1957" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&rounded=true"/>
 </a>
-
 <a href="https://www.linkedin.com/in/robertocesaryanes/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&rounded=true"/>
 </a>
-
 <a href="https://instagram.com/Roberto_Cesar_Yanes" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white&rounded=true"/>
 </a>
 
 </div>
+
 
 ---
 
