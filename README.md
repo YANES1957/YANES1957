@@ -51,43 +51,35 @@ Hoje sigo firme construindo um futuro mais leve, próspero e cheio de possibilid
 
 ### 🚀 Tecnologias que uso e estudo
 
-<!-- Java -->
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+<div align="center">
 
-<!-- Spring Boot -->
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/IntelliJ_IDEA-F300B0?style=for-the-badge&logo=intellijidea&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_API-0A7EC2?style=for-the-badge&logo=api&logoColor=white"/>
+<img src="https://img.shields.io/badge/QA_Automation-F1C40F?style=for-the-badge&logo=test&logoColor=black"/>
 
-<!-- MySQL -->
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+</div>
 
-<!-- Git -->
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-<!-- GitHub -->
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-<!-- IntelliJ IDEA (cor JetBrains oficial) -->
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-F300B0?style=for-the-badge&logo=intellijidea&logoColor=white)
-
-<!-- REST API (azul) -->
-![REST API](https://img.shields.io/badge/REST_API-0A7EC2?style=for-the-badge&logo=api&logoColor=white)
-
-<!-- QA Automation (amarelo) -->
-![QA Automation](https://img.shields.io/badge/QA_Automation-F1C40F?style=for-the-badge&logo=test&logoColor=black)
-
-## 🌐 Onde você pode me encontrar  
+## 🌐 Onde você pode me encontrar 
 
 <div align="center">
 
-<a href="mailto:robertocesaryanes@gmail.com" target="_blank">
+<a href="mailto:robertocesaryanes@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
 <a href="https://github.com/YANES1957" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
 <a href="https://www.linkedin.com/in/robertocesaryanes/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 <a href="https://instagram.com/Roberto_Cesar_Yanes" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
