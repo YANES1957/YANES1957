@@ -7,14 +7,14 @@
 
 ---
 
-## ⚡ **Sobre mim*  
+## ⚡ *Sobre mim*  
 - Desenvolvedor iniciante em **Java**, focado em boas práticas de **backend**, **Spring Boot** e **APIs REST**.  
 - Estudo diariamente **Java, Spring Boot, JUnit 5, Mockito, API REST, boas práticas de arquitetura e QA Automation**.  
 - Tenho um filho de quatro patas, meu companheiro de vida: **Lito**, minha maior alegria.🐶💙
 
 ---
 
-## 🌱 **Atualmente estudando*  
+## 🌱 *Atualmente estudando*  
 - **Java**.  
 - Spring Boot.  
 - API REST.  
@@ -40,7 +40,7 @@ Meus hobbies incluem:
 
 ---
 
-## 🧐 **Curiosidade sobre minha trajetória*  
+## 🧐 *Curiosidade sobre minha trajetória*  
 Eu decidi entrar na programação, após um momento de profunda mudança e reconstrução na minha vida.  
 Desenvolver em Java se tornou minha forma de reencontrar **clareza, propósito, e força**. 
 Estudar me trouxe **equilíbrio, disciplina e a sensação real de evolução** — tanto como profissional quanto como ser humano.  
@@ -49,7 +49,7 @@ Hoje sigo firme construindo um futuro de evolução, próspero e cheio de possib
 ---
 
 
-### 🚀 **Tecnologias que uso e estudo*
+### 🚀 *Tecnologias que uso e estudo*
 
 <div align="center">
 
@@ -64,7 +64,7 @@ Hoje sigo firme construindo um futuro de evolução, próspero e cheio de possib
 
 </div>
 
-## 🌐 **Onde você pode me encontrar* 
+## 🌐 *Onde você pode me encontrar* 
 
 <div align="center">
 
@@ -86,7 +86,7 @@ Hoje sigo firme construindo um futuro de evolução, próspero e cheio de possib
 
 ---
 
-## 🙏 **Obrigado por visitar meu perfil*!  
+## 🙏 *Obrigado por visitar meu perfil*!  
 Sinta-se à vontade para explorar meu trabalho e acompanhar minha evolução.
 
 
