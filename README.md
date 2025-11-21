@@ -8,7 +8,7 @@
 ---
 
 ## ⚡ *Sobre mim*  
-- Desenvolvedor iniciante em **Java**, focado em boas práticas de **backend**, **Spring Boot** e **APIs REST**.  
+- Desenvolvedor iniciante em **Java**, focado em boas práticas de **back-end**, **Spring Boot** e **APIs REST**.  
 - Estudo diariamente **Java, Spring Boot, JUnit 5, Mockito, API REST, boas práticas de arquitetura e QA Automation**.  
 - Tenho um filho de quatro patas, meu companheiro de vida: **Lito**, minha maior alegria.🐶💙
 
