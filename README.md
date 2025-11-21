@@ -27,7 +27,7 @@
 
 ---
 
-## ⛱️ **Um caiçara*
+## ⛱️ *Um caiçara*
 Moro e sou apaixonado pelo litoral, sol, praia, natureza, energia e a simplicidade do mar.  
 Meus hobbies incluem:  
 - 🏋️ Academia
