@@ -1,7 +1,7 @@
 # 🔴 Roberto César Yanes
 
-## 🚀 Atuação Prática
-- **Desenvolvedor Java** com **8 meses de atuação prática** em projetos voltados à solução de problemas reais do cotidiano.
+
+- Sou um **Desenvolvedor Java** com **8 meses de atuação prática** em projetos voltados à solução de problemas reais do cotidiano.
 - Construção de **APIs REST** com Spring Boot.
 - Testes automatizados com **JUnit 5**, **Mockito** e práticas de **QA Automation**.
 - Aplicação de **boas práticas**, arquitetura limpa e padrões de projeto.
@@ -9,6 +9,7 @@
 ---
 
 ## 📚 Tecnologias que utilizo nos meus projetos (bootcamps de referência)
+
 <div align="left">
   <a href="https://web.dio.me/track/bradesco-java-qa-developer">
     <img src="https://img.shields.io/badge/DIO-Bradesco-blue?style=for-the-badge&logo=bookstack&logoColor=white" style="border-radius:12px; height:28px;">
@@ -24,6 +25,7 @@
 ---
 
 ## 🔗 Onde você pode me encontrar
+
 <div align="left">
   <a href="mailto:seuemail@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail&logoColor=white" style="border-radius:12px; height:28px;">
@@ -42,6 +44,7 @@
 ---
 
 ## 🧭 Minha Jornada
+
 Decidi entrar na programação após um período de mudanças profundas na minha vida. Estudar Java se tornou meu ponto de virada —  **motivação, propósito e força**.
 
 Através dos bootcamps da DIO, Udemy, Bradesco e Riachuelo, encontrei equilíbrio, disciplina e uma sensação real de evolução — como profissional e como ser humano.
