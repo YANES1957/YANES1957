@@ -1,10 +1,11 @@
 # 🔴 Roberto César Yanes
 
 
-- Sou um **Desenvolvedor Java** com **8 meses de atuação prática** em projetos voltados à solução de problemas reais do cotidiano.
+- Sou um **Desenvolvedor Java** com **8 meses de atuação prática** em projetos voltados à solução de problemas reais.
 - Construção de **APIs REST** com Spring Boot.
 - Testes automatizados com **JUnit 5**, **Mockito** e práticas de **QA Automation**.
 - Aplicação de **boas práticas**, arquitetura limpa e padrões de projeto.
+
 
 ---
 
@@ -22,6 +23,7 @@
     <img src="https://img.shields.io/badge/Udemy-Java_Pratica-orange?style=for-the-badge&logo=udemy&logoColor=white" style="border-radius:12px; height:28px;">
   </a>
 </div>
+
 
 ---
 
@@ -43,6 +45,7 @@
   </a>
 </div>
 
+
 ---
 
 
@@ -50,13 +53,14 @@
 
 Decidi entrar na programação após um período de mudanças profundas na minha vida. Estudar Java se tornou meu ponto de virada —  **motivação, propósito e força**.
 
-Através dos bootcamps da DIO, Udemy, Bradesco e Riachuelo, encontrei equilíbrio, disciplina e uma sensação real de evolução — como profissional e como ser humano.
+Através dos bootcamps da DIO, Udemy, Bradesco e Riachuelo, encontrei moticação, disciplina e uma sensação real de evolução — como profissional e como ser humano.
 
 Hoje sigo firme construindo um futuro próspero através **do conhecimento, do foco na área de tecnologia**.
+
 
 ---
 
 
-## Obrigado por visitar meu perfil!🙌
+## Obrigado por visitar meu perfil!😉👍
 
 ## Sinta-se à vontade para explorar meu trabalho e acompanhar minha evolução.
