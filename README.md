@@ -8,6 +8,7 @@
 
 ---
 
+
 ## 📚 Tecnologias que utilizo nos meus projetos (bootcamps de referência)
 
 <div align="left">
@@ -23,6 +24,7 @@
 </div>
 
 ---
+
 
 ## 🔗 Onde você pode me encontrar
 
@@ -43,6 +45,7 @@
 
 ---
 
+
 ## 🧭 Minha Jornada
 
 Decidi entrar na programação após um período de mudanças profundas na minha vida. Estudar Java se tornou meu ponto de virada —  **motivação, propósito e força**.
@@ -52,6 +55,7 @@ Através dos bootcamps da DIO, Udemy, Bradesco e Riachuelo, encontrei equilíbri
 Hoje sigo firme construindo um futuro próspero através **do conhecimento, do foco na área de tecnologia**.
 
 ---
+
 
 ## Obrigado por visitar meu perfil!🙌
 
