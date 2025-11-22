@@ -1,92 +1,55 @@
-<h1 align="center"> 🔴 Bem vindo!  Eu sou o Roberto César. </h1>
+# 🔴 Roberto César Yanes
 
-<p align="center">
-  Sou um desenvolvedor back-end iniciante, focado em Java, Spring Boot e boas práticas.  
-  Determinado a construir um futuro mais sólido, feliz e cheio de possibilidades através da tecnologia.
-</p>
-
----
-
-## ⚡ *Sobre mim*  
-- Desenvolvedor iniciante em **Java**, focado em boas práticas de **back-end**, **Spring Boot** e **APIs REST**.  
-- Estudo diariamente **Java, Spring Boot, JUnit 5, Mockito, API REST, boas práticas de arquitetura e QA Automation**.  
-- Tenho um filho de quatro patas, meu companheiro de vida: **Lito**, minha maior alegria.🐶💙
+## 🚀 Atuação Prática
+- **Desenvolvedor Java** com **8 meses de atuação prática** em projetos voltados à solução de problemas reais do cotidiano.
+- Construção de **APIs REST** com Spring Boot.
+- Testes automatizados com **JUnit 5**, **Mockito** e práticas de **QA Automation**.
+- Aplicação de **boas práticas**, arquitetura limpa e padrões de projeto.
 
 ---
 
-## 🌱 *Atualmente estudando*  
-- **Java**.  
-- Spring Boot.  
-- API REST.  
-- JUnit 5.  
-- Mockito;  
-- **QA Automation**.  
-- Arquitetura e boas práticas.  
-- Produtividade e organização de código.  
-- Bootcamps e cursos pela **Udemy, DIO/Bradesco, DIO/Riachuelo** e outras plataformas gratuitas.  
-
----
-
-## ⛱️ *Um caiçara*
-Moro e sou apaixonado pelo litoral, sol, praia, natureza, energia e a simplicidade do mar.  
-Meus hobbies incluem:  
-- 🏋️ Academia
-- 📚 Gosto muito de escrever e ler determinados gêneros literários.
-- ♣️ Jogar baralho e dominó com meus pais que já são idosos.
-- 🌊 Caminhada na praia e nadar no mar. 
-- 🏍️ Trilha com a minha moto pelo litoral. 
-- 🎮 Jogos vintage 32-bits (KOF, Street Fighter, SNES, Mega Drive), Fall Guys e futebol online, God Of War.  
-- 🐶 Cuidar, brincar e caminhadas diárias com meu pet o **Lito**
-
----
-
-## 🧐 *Curiosidade sobre minha trajetória*  
-Eu decidi entrar na programação, após um momento de profunda mudança e reconstrução na minha vida.  
-Desenvolver em Java se tornou minha forma de reencontrar **clareza, propósito, e força**. 
-Estudar me trouxe **equilíbrio, disciplina e a sensação real de evolução** — tanto como profissional quanto como ser humano.  
-Hoje sigo firme construindo um futuro de evolução, próspero e cheio de possibilidades através do conhecimento e da tecnologia.
-
----
-
-
-### 🚀 *Tecnologias que uso e estudo*
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=007396&rounded=true"/>
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white&labelColor=6DB33F&rounded=true"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=4479A1&rounded=true"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=F05032&rounded=true"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717&rounded=true"/>
-<img src="https://img.shields.io/badge/IntelliJ_IDEA-F300B0?style=for-the-badge&logo=intellijidea&logoColor=white&labelColor=F300B0&rounded=true"/>
-<img src="https://img.shields.io/badge/REST_API-0A7EC2?style=for-the-badge&logo=apiblueprint&logoColor=white&labelColor=0A7EC2&rounded=true"/>
-<img src="https://img.shields.io/badge/QA_Automation-F1C40F?style=for-the-badge&logo=test&logoColor=black&labelColor=F1C40F&rounded=true"/>
-
+## 📚 Tecnologias que utilizo nos meus projetos (bootcamps de referência)
+<div align="left">
+  <a href="https://web.dio.me/track/bradesco-java-qa-developer">
+    <img src="https://img.shields.io/badge/DIO-Bradesco-blue?style=for-the-badge&logo=bookstack&logoColor=white" style="border-radius:12px; height:28px;">
+  </a>
+  <a href="https://web.dio.me/track/riachuelo-primeiros-passos-com-java">
+    <img src="https://img.shields.io/badge/DIO-Riachuelo-purple?style=for-the-badge&logo=bookstack&logoColor=white" style="border-radius:12px; height:28px;">
+  </a>
+  <a href="https://www.udemy.com/course/fundamentos-de-programacao-com-java/?couponCode=CP251120G2">
+    <img src="https://img.shields.io/badge/Udemy-Java_Pratica-orange?style=for-the-badge&logo=udemy&logoColor=white" style="border-radius:12px; height:28px;">
+  </a>
 </div>
 
-## 🌐 *Onde você pode me encontrar* 
+---
 
-<div align="center">
-
-<a href="mailto:robertocesaryanes@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&rounded=true&logoWidth=20&logoHeight=20"/>
-</a>
-<a href="https://github.com/YANES1957" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&rounded=true&logoWidth=20&logoHeight=20"/>
-</a>
-<a href="https://www.linkedin.com/in/robertocesaryanes/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&rounded=true&logoWidth=20&logoHeight=20"/>
-</a>
-<a href="https://instagram.com/Roberto_Cesar_Yanes" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white&rounded=true&logoWidth=20&logoHeight=20"/>
-</a>
-
+## 🔗 Onde você pode me encontrar
+<div align="left">
+  <a href="mailto:seuemail@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail&logoColor=white" style="border-radius:12px; height:28px;">
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius:12px; height:28px;">
+  </a>
+  <a href="https://www.instagram.com/">
+    <img src="https://img.shields.io/badge/Instagram-Perfil-magenta?style=for-the-badge&logo=instagram&logoColor=white" style="border-radius:12px; height:28px;">
+  </a>
+  <a href="https://github.com/">
+    <img src="https://img.shields.io/badge/GitHub-Repos-black?style=for-the-badge&logo=github&logoColor=white" style="border-radius:12px; height:28px;">
+  </a>
 </div>
-
 
 ---
 
-## 🙏 *Obrigado por visitar meu perfil*!  
-Sinta-se à vontade para explorar meu trabalho e acompanhar minha evolução.
+## 🧭 Minha Jornada
+Decidi entrar na programação após um período de mudanças profundas na minha vida. Estudar Java se tornou meu ponto de virada —  **motivação, propósito e força**.
 
+Através dos bootcamps da DIO, Udemy, Bradesco e Riachuelo, encontrei equilíbrio, disciplina e uma sensação real de evolução — como profissional e como ser humano.
 
+Hoje sigo firme construindo um futuro próspero através **do conhecimento, do foco na área de tecnologia**.
+
+---
+
+## Obrigado por visitar meu perfil!🙌
+
+## Sinta-se à vontade para explorar meu trabalho e acompanhar minha evolução.
