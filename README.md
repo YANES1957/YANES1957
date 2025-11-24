@@ -1,6 +1,6 @@
 # 🔴 Roberto César Yanes
 
-### **Sou um Desenvolvedor Back-end Java com 8 meses de atuação prática em projetos voltados à solução de problemas reais. Construção de APIs REST com Spring Boot, aplicação de boas práticas, arquitetura limpa e padrões de projeto, testes automatizados com JUnit 5, Mockito e práticas de QA Automation.**
+### **Sou um Desenvolvedor Back-end Java com 8 meses de atuação prática em projetos voltados à solução de problemas reais. Construção de APIs REST com Spring Boot, aplicação de boas práticas e TDD, arquitetura limpa e padrões de projeto, testes unitários (JUnit 5, Mockito), testes automatizados BDD (Cucumber), testes de integração (Swagger e Postman) e práticas de QA Automation.**
 
 ## 📚 Tecnologias que utilizo nos meus projetos (bootcamps de referência)
 <div align="left" style="display:flex; gap:10px; flex-wrap:wrap;">
@@ -35,7 +35,7 @@
 </div>
 
 ## 🧭 Minha Jornada
-Decidi entrar na programação após um período de mudanças profundas na minha vida. Estudar Java se tornou meu ponto de virada —  **motivação, propósito e força**. Através dos bootcamps da Udemy, DIO (link atualizado) em parceria com Riachuelo e DIO em parceria com Bradesco, encontrei motivação, disciplina e uma sensação real de evolução — como profissional e como ser humano. Hoje sigo firme construindo um futuro próspero através **do conhecimento, do foco na área de tecnologia**.
+Decidi entrar na programação após um período de mudanças profundas na minha vida. Estudar Java se tornou meu ponto de virada —  **motivação, propósito e força**. Através dos bootcamps da Udemy, DIO em parceria com Riachuelo e DIO em parceria com Bradesco, encontrei motivação, disciplina e uma sensação real de evolução — como profissional e como ser humano. Hoje sigo firme construindo um futuro próspero através **do conhecimento, do foco na área de tecnologia**.
 
 ## Obrigado por visitar meu perfil! 😉👍🏻
 
