@@ -1,6 +1,8 @@
 # 🔴 Roberto César Yanes
 
-### **Sou um Desenvolvedor Back-end Java com 8 meses de atuação prática em projetos voltados à solução de problemas reais. Construção de APIs REST com Spring Boot, aplicação de boas práticas e TDD, arquitetura limpa e padrões de projeto, testes unitários (JUnit 5, Mockito), testes automatizados BDD (Cucumber), testes de integração (Swagger e Postman) e práticas de QA Automation.**
+ 
+## **Sou Desenvolvedor Back-end Java** com 8 meses de experiência prática em projetos voltados à **solução de problemas reais**, construindo **APIs REST com Spring Boot**. Aplico **boas práticas, TDD, arquitetura limpa e padrões de projeto**, com foco em **código de qualidade e evolução contínua**. Experiência em **testes unitários (JUnit 5, Mockito)**, **testes automatizados BDD (Cucumber)**, **testes de integração de APIs (Postman e Swagger)** e **QA Automation**.
+
 
 ## 📚 Tecnologias que utilizo nos meus projetos (bootcamps de referência)
 <div align="left" style="display:flex; gap:10px; flex-wrap:wrap;">
