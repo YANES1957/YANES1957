@@ -1,7 +1,7 @@
 ## 🔴 **Roberto César Yanes**
 
  
- #### 🟢 Sou Analista de Testes de Software (QA / QA Automation) com formação e experiência em Desenvolvimento de Software Backend Java. Durante esses nove meses, tenho atuado na automação e garantia da qualidade de software, com foco em processos confiáveis e escaláveis. Tenho experiência em:
+ #### 🟢 Sou Desenvolvedor Backend Java com formação e experiência, atualmente migrando para a área de QA / QA Automation. Nos últimos nove meses, venho atuando com automação e garantia da qualidade de software, focando em processos confiáveis, escaláveis e eficientes. Minha experiência em desenvolvimento me proporciona uma visão completa do ciclo de vida do software, aliando código de qualidade a testes robustos e estratégias de automação eficientes. Tenho experiência em:
 
 **Testes Unitários: JUnit 5, Mockito**
 
