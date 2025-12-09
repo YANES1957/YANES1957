@@ -1,18 +1,7 @@
 ## 🔴 **Roberto César Yanes**
 
  
- #### 🟢 Sou Desenvolvedor Backend Java com formação e experiência, atualmente migrando para a área de QA / QA Automation. Nos últimos nove meses, venho atuando com automação e garantia da qualidade de software, focando em processos confiáveis, escaláveis e eficientes. Minha experiência em desenvolvimento me proporciona uma visão completa do ciclo de vida do software, aliando código de qualidade a testes robustos e estratégias de automação eficientes. 
-Tenho experiência em:
-
-**Testes Unitários: JUnit 5, Mockito**
-
-**Automação BDD: Cucumber**
-
-**Testes Funcionais e de Interface: Selenium**
-
-**Testes de Integração de APIs: Postman e Swagger**
-
- #### 🔵 **Atuo na construção de pipelines de qualidade e na implementação de práticas de QA Automation, garantindo que cada etapa do ciclo de desenvolvimento seja validada e evolua com consistência.**
+ #### 🟢Sou um Desenvolvedor Backend Java em transição para analise de testes de software (Quality Assurance), focando em testes unitários e automatizados. Minha experiência prática nos últimos 9 meses inclui construção e validação de APIs REST, criação de cenários de teste, automação aplicada e aplicação consistente de práticas de qualidade. Atuo garantindo confiabilidade, prevenção de falhas e validação funcional, sempre com mentalidade analítica e atenção ao detalhe. Minha base em backend me permite compreender regras de negócio, estruturar testes mais completos e antecipar riscos com eficiência. Minhas principais experiências incluem: Testes unitários e de integração com JUnit e Mockito, automação de testes BDD com Cucumber, testes funcionais automatizados com Selenium e ChromeDriver, validação e testes de APIs REST (manuais e automatizados), ambientes isolados com Docker e Docker Compose. Práticas de QA: análise de cenários, documentação, prevenção de regressões e garantia de qualidade ponta a ponta
 
 #### 🟡 **Desenvolvo aplicações com Spring Boot aplicando TDD, arquitetura limpa e padrões de projeto, sempre priorizando código de qualidade, confiabilidade e entregas consistente. Meu objetivo é construir soluções robustas e assegurar que cada etapa do ciclo de desenvolvimento evolua com qualidade contínua.**
 
