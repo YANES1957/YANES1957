@@ -42,6 +42,6 @@
 ## 🧭 Minha Jornada
 **Decidi entrar na programação após um período de mudanças profundas na minha vida. Estudar Java se tornou meu ponto de virada, minha motivação, propósito e força**. **Através dos bootcamps da Udemy, DIO em parceria com Riachuelo e DIO em parceria com Bradesco, encontrei motivação, disciplina e uma sensação real de evolução — como profissional e como ser humano. Hoje sigo firme construindo um futuro próspero através do conhecimento, do foco na área de tecnologia**.
 
-### Obrigado por visitar meu perfil! 😉👍🏻
+### Obrigado por visitar meu perfil. 😉👍🏻
 
-### Sinta-se à vontade para explorar meu trabalho e acompanhar minha evolução.
+### Sinta-se à vontade para explorar meu trabalho e acompanhar minha evolução. 🚀
