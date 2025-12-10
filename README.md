@@ -7,7 +7,7 @@
 #### 🟡 Desenvolvo aplicações com Spring Boot aplicando TDD, arquitetura limpa e padrões de projeto, sempre priorizando código de qualidade, confiabilidade e entregas consistente. Meu objetivo é construir soluções robustas e assegurar que cada etapa do ciclo de desenvolvimento evolua com qualidade contínua.**
 
 
-## 📚 Tecnologias que utilizo nos meus projetos (bootcamps de referência)
+## 📚 Tecnologias que utilizo nos meus projetos (Bootcamps de referência)
 <div align="left" style="display:flex; gap:10px; flex-wrap:wrap;">
   <a href="https://www.udemy.com/course/fundamentos-de-programacao-com-java/?couponCode=CP251120G2">
     <img src="https://img.shields.io/badge/Udemy-pink?style=for-the-badge&logo=udemy&logoColor=white" style="border-radius:12px; height:28px;">
