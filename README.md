@@ -8,7 +8,7 @@ Minha experiência prática nos últimos 11 meses inclui construção, validaç�
 - **Qualidade de Software (QA)**
 - **Testes unitários, de integração e automatizados**
 - **APIs REST e validação funcional**
-- **Fundamentos de Cloud e IA, arquitetura moderna com foco corporativo com a Acceture e Amazon(AWS)**
+- **Fundamentos de Cloud e IA, arquitetura moderna com foco corporativo com a Acceture e Amazon (AWS)**
 - **Cloud Computing com Microsoft Azure**
 
 
