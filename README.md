@@ -8,8 +8,8 @@ Minha experiência prática nos últimos 11 meses inclui construção, validaç�
 - **Qualidade de Software (QA)**
 - **Testes unitários, de integração e automatizados**
 - **APIs REST e validação funcional**
-- **Fundamentos de Cloud e IA, arquitetura moderna com foco corporativo com a Acceture e Amazon (AWS)**
-- **Cloud Computing com Microsoft Azure**
+- **Fundamentos de Cloud Computing e IA, arquitetura moderna com foco corporativo com a Accenture e Amazon (AWS)**
+- **Cloud Native com Microsoft Azure**
 
 
 **Minha base em backend me permite compreender regras de negócio, estruturar testes mais completos e antecipar riscos com eficiência, garantindo confiabilidade e qualidade contínua ao longo do ciclo de desenvolvimento.**
