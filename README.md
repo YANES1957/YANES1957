@@ -1,21 +1,21 @@
 ## 🔴 **Roberto César Yanes**
 
-🟢 Sou Desenvolvedor Backend em transição estratégica para Analista de Testes de Software (QA), com foco em testes unitários, de integração e automação.  
-Minha experiência prática nos últimos 11 meses inclui construção, validação e garantia de qualidade de APIs REST, criação de cenários de teste e automação aplicada, sempre com mentalidade analítica e atenção aos detalhes.
+🟢 **Sou Desenvolvedor Backend em transição estratégica para Analista de Testes de Software (QA), com foco em testes unitários, de integração e automação.  
+Minha experiência prática nos últimos 11 meses inclui construção, validação e garantia de qualidade de APIs REST, criação de cenários de teste e automação aplicada, sempre com mentalidade analítica e atenção aos detalhes.**
 
-Minha formação prática inclui bootcamps de referência da **DIO em parceria com Bradesco, Riacuelo, Acceture e Microsoft**, onde desenvolvi e apliquei conhecimentos em:
-- Java e Spring Boot
-- Qualidade de Software (QA)
-- Testes unitários, de integração e automatizados
-- APIs REST e validação funcional
-- Cloud Computing com **Microsoft Azure**
-- Fundamentos de **Cloud, IA e arquitetura moderna** com foco corporativo (Acceture)
+**Minha formação prática inclui bootcamps de referência da **DIO em parceria com Bradesco, Riacuelo, Acceture e Microsoft**, onde desenvolvi e apliquei conhecimentos em:**
+- **Java e Spring Boot**
+- **Qualidade de Software (QA)**
+- **Testes unitários, de integração e automatizados**
+- **APIs REST e validação funcional**
+- **Cloud Computing com Microsoft Azure**
+- **Fundamentos de Cloud, IA e arquitetura moderna com foco corporativo (Acceture)**
 
-Minha base em backend me permite compreender regras de negócio, estruturar testes mais completos e antecipar riscos com eficiência, garantindo confiabilidade e qualidade contínua ao longo do ciclo de desenvolvimento.
+**Minha base em backend me permite compreender regras de negócio, estruturar testes mais completos e antecipar riscos com eficiência, garantindo confiabilidade e qualidade contínua ao longo do ciclo de desenvolvimento.**
 
 ---
 
-## 📚 Tecnologias que utilizo nos meus projetos (Bootcamps de referência)
+## **📚 Tecnologias que utilizo nos meus projetos (Bootcamps de referência)**
 
 <div align="left" style="display:flex; gap:10px; flex-wrap:wrap;">
 
@@ -53,12 +53,12 @@ Minha base em backend me permite compreender regras de negócio, estruturar test
 
 ---
 
-## 🧭 Minha Jornada
-Decidi entrar na programação após um período de mudanças profundas na minha vida.  
-Estudar **Java, Qualidade de Software e Cloud** se tornou meu ponto de virada — disciplina, propósito e evolução constante.  
-Hoje sigo construindo uma carreira sólida em tecnologia, com foco em **qualidade, aprendizado contínuo e impacto real**.
+## **🧭 Minha Jornada**
+**Decidi entrar na programação após um período de mudanças profundas na minha vida.**  
+**Estudar Java, Qualidade de Software e Cloud se tornou meu ponto de virada — disciplina, propósito e evolução constante.**  
+**Hoje sigo construindo uma carreira sólida em tecnologia, com foco em qualidade, aprendizado contínuo e impacto real**.
 
 ---
 
-### Obrigado por visitar meu perfil 😉👍🏻  
-### Sinta-se à vontade para explorar meus projetos e acompanhar minha evolução 🚀
+### **Obrigado por visitar meu perfil.** 😉👍🏻  
+### **Sinta-se à vontade para explorar meus projetos e acompanhar minha evolução.** 🚀
