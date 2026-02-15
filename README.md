@@ -3,13 +3,13 @@
 🟢 Sou Desenvolvedor Backend em transição estratégica para Analista de Testes de Software (QA), com foco em testes unitários, de integração e automação.  
 Minha experiência prática nos últimos 11 meses inclui construção, validação e garantia de qualidade de APIs REST, criação de cenários de teste e automação aplicada, sempre com mentalidade analítica e atenção aos detalhes.
 
-Minha formação prática inclui bootcamps de referência da **DIO em parceria com Bradesco, Riachuelo, Accenture e Microsoft**, onde desenvolvi e apliquei conhecimentos em:
+Minha formação prática inclui bootcamps de referência da **DIO em parceria com Bradesco, Riacuelo, Acceture e Microsoft**, onde desenvolvi e apliquei conhecimentos em:
 - Java e Spring Boot
 - Qualidade de Software (QA)
 - Testes unitários, de integração e automatizados
 - APIs REST e validação funcional
 - Cloud Computing com **Microsoft Azure**
-- Fundamentos de **Cloud, IA e arquitetura moderna** com foco corporativo (Accenture)
+- Fundamentos de **Cloud, IA e arquitetura moderna** com foco corporativo (Acceture)
 
 Minha base em backend me permite compreender regras de negócio, estruturar testes mais completos e antecipar riscos com eficiência, garantindo confiabilidade e qualidade contínua ao longo do ciclo de desenvolvimento.
 
@@ -30,17 +30,17 @@ Minha base em backend me permite compreender regras de negócio, estruturar test
   </a>
 
   <a href="https://web.dio.me/track/riachuelo-primeiros-passos-com-java">
-    <img src="https://img.shields.io/badge/Riachuelo-white?style=for-the-badge&logo=dio&logoColor=black"
+    <img src="https://img.shields.io/badge/Riacuelo%20-%20Java-white?style=for-the-badge&logo=dio&logoColor=black"
          style="border-radius:12px; height:28px;">
   </a>
 
   <a href="https://web.dio.me/track/bradesco-java-qa-developer">
-    <img src="https://img.shields.io/badge/Bradesco-red?style=for-the-badge&logo=dio&logoColor=white"
+    <img src="https://img.shields.io/badge/Bradesco%20-%20Java%20%26%20QA-red?style=for-the-badge&logo=dio&logoColor=white"
          style="border-radius:12px; height:28px;">
   </a>
 
   <a href="https://web.dio.me/track/accenture-desenvolvimento-java-cloud">
-    <img src="https://img.shields.io/badge/Accenture-%235A2D82?style=for-the-badge&logo=accenture&logoColor=white"
+    <img src="https://img.shields.io/badge/Acceture%20-%20Cloud%20%26%20IA-%235A2D82?style=for-the-badge&logo=accenture&logoColor=white"
          style="border-radius:12px; height:28px;">
   </a>
 
