@@ -1,4 +1,3 @@
-
 ## 🔴 **Roberto César Yanes**
 
 🟢 **Sou Desenvolvedor Backend em transição estratégica para Analista de Testes de Software (QA), com foco em testes unitários, de integração e automação.  
@@ -20,37 +19,39 @@ Minha experiência prática nos últimos 11 meses inclui construção, validaç�
 
 <div align="left" style="display:flex; gap:10px; flex-wrap:wrap;">
 
+  <!-- Udemy -->
   <a href="https://www.udemy.com/course/fundamentos-de-programacao-com-java/?couponCode=CP251120G2">
-    <img src="https://img.shields.io/badge/Udemy-pink?style=for-the-badge&logo=udemy&logoColor=white"
+    <img src="https://img.shields.io/badge/Udemy-pink?style=for-the-badge"
          style="border-radius:12px; height:28px;">
   </a>
 
+  <!-- DIO -->
   <a href="https://web.dio.me/play">
-    <img src="https://img.shields.io/badge/DIO-black?style=for-the-badge&logo=dio&logoColor=white"
+    <img src="https://img.shields.io/badge/DIO-black?style=for-the-badge"
          style="border-radius:12px; height:28px;">
   </a>
 
-  <!-- Riacuelo - Java | TODO BRANCO (SEM CINZA) -->
+  <!-- Riacuelo - Java | TODO BRANCO | SEM LOGO -->
   <a href="https://web.dio.me/track/riachuelo-primeiros-passos-com-java">
-    <img src="https://img.shields.io/badge/Riacuelo%20-%20Java-white?style=for-the-badge&logo=dio&logoColor=black"
+    <img src="https://img.shields.io/badge/Riacuelo%20Java-white?style=for-the-badge"
          style="border-radius:12px; height:28px;">
   </a>
 
-  <!-- Bradesco - Java & QA | TODO VERMELHO -->
+  <!-- Bradesco - Java & QA | TODO VERMELHO | SEM LOGO -->
   <a href="https://web.dio.me/track/bradesco-java-qa-developer">
-    <img src="https://img.shields.io/badge/Bradesco%20-%20Java%20%26%20QA-red?style=for-the-badge&logo=dio&logoColor=white"
+    <img src="https://img.shields.io/badge/Bradesco%20Java%20%26%20QA-red?style=for-the-badge"
          style="border-radius:12px; height:28px;">
   </a>
 
-  <!-- Acceture - Cloud & IA | ROXO ESCURO -->
+  <!-- Acceture - Cloud & IA | ROXO ESCURO | SEM LOGO -->
   <a href="https://web.dio.me/track/accenture-desenvolvimento-java-cloud">
-    <img src="https://img.shields.io/badge/Acceture%20-%20Cloud%20%26%20IA-%235A2D82?style=for-the-badge&logo=accenture&logoColor=white"
+    <img src="https://img.shields.io/badge/Acceture%20Cloud%20IA-%235A2D82?style=for-the-badge"
          style="border-radius:12px; height:28px;">
   </a>
 
-  <!-- Microsoft Azure | AZUL ROYAL -->
+  <!-- Microsoft Azure | AZUL ROYAL (logo ok) -->
   <a href="https://web.dio.me/track/microsoft-azure-cloud-native-2026?tab=certificate">
-    <img src="https://img.shields.io/badge/Microsoft%20Azure-%230072C6?style=for-the-badge&logo=microsoftazure&logoColor=white"
+    <img src="https://img.shields.io/badge/Microsoft%20Azure-%230072C6?style=for-the-badge"
          style="border-radius:12px; height:28px;">
   </a>
 
