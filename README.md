@@ -1,9 +1,10 @@
+
 ## 🔴 **Roberto César Yanes**
 
 🟢 **Sou Desenvolvedor Backend em transição estratégica para Analista de Testes de Software (QA), com foco em testes unitários, de integração e automação.  
 Minha experiência prática nos últimos 11 meses inclui construção, validação e garantia de qualidade de APIs REST, criação de cenários de teste e automação aplicada, sempre com mentalidade analítica e atenção aos detalhes.**
 
-**Minha formação prática inclui bootcamps de referência da **DIO em parceria com Bradesco, Riacuelo, Acceture e Microsoft**, onde desenvolvi e apliquei conhecimentos em:**
+**Minha formação prática inclui bootcamps de referência da DIO em parceria com Bradesco, Riacuelo, Acceture e Microsoft, onde desenvolvi e apliquei conhecimentos em:**
 - **Java e Spring Boot**
 - **Qualidade de Software (QA)**
 - **Testes unitários, de integração e automatizados**
@@ -29,21 +30,25 @@ Minha experiência prática nos últimos 11 meses inclui construção, validaç�
          style="border-radius:12px; height:28px;">
   </a>
 
+  <!-- Riacuelo - Java | TODO BRANCO (SEM CINZA) -->
   <a href="https://web.dio.me/track/riachuelo-primeiros-passos-com-java">
     <img src="https://img.shields.io/badge/Riacuelo%20-%20Java-white?style=for-the-badge&logo=dio&logoColor=black"
          style="border-radius:12px; height:28px;">
   </a>
 
+  <!-- Bradesco - Java & QA | TODO VERMELHO -->
   <a href="https://web.dio.me/track/bradesco-java-qa-developer">
     <img src="https://img.shields.io/badge/Bradesco%20-%20Java%20%26%20QA-red?style=for-the-badge&logo=dio&logoColor=white"
          style="border-radius:12px; height:28px;">
   </a>
 
+  <!-- Acceture - Cloud & IA | ROXO ESCURO -->
   <a href="https://web.dio.me/track/accenture-desenvolvimento-java-cloud">
     <img src="https://img.shields.io/badge/Acceture%20-%20Cloud%20%26%20IA-%235A2D82?style=for-the-badge&logo=accenture&logoColor=white"
          style="border-radius:12px; height:28px;">
   </a>
 
+  <!-- Microsoft Azure | AZUL ROYAL -->
   <a href="https://web.dio.me/track/microsoft-azure-cloud-native-2026?tab=certificate">
     <img src="https://img.shields.io/badge/Microsoft%20Azure-%230072C6?style=for-the-badge&logo=microsoftazure&logoColor=white"
          style="border-radius:12px; height:28px;">
