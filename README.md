@@ -1,6 +1,6 @@
 ## 🟢 **Roberto César Yanes**
 
-🟣 **Sou Desenvolvedor Backend em transição estratégica para Analista de Testes de Software (QA), com foco em testes unitários, de integração e automação.  
+🟣 ** Sou um Analista de Testes de Software (QA), com foco em testes unitários, de integração e automação. Durante os primeiros bootcapms da DIO em paceira com a Riachuelo e pela Udemy, iniciei minha formação como Desenvolvedor Backend Java. Mas foi durante o curso de Java & QA do Bradesco que encontrei minha direção na área de tecnologia.
 Minha experiência prática nos últimos 11 meses inclui construção, validação e garantia de qualidade de APIs REST, criação de cenários de teste e automação aplicada, sempre com mentalidade analítica e atenção aos detalhes.**
 
 **Minha formação prática inclui bootcamps de referência da DIO em parceria com Bradesco, Riacuelo, Acceture e Microsoft, onde desenvolvi e apliquei conhecimentos em:**
